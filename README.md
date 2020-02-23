@@ -1,6 +1,6 @@
 # speech_emotion_classification
 
-speech_emotion_classification is to classify the emotion of speaker while speaking.
+speech_emotion_classification is using LSTM to classify the emotion of speaker while speaking.
 
 ## Installation
 
