@@ -5,5 +5,5 @@ speech_emotion_classification is using LSTM to classify the emotion of speaker w
 ## Installation
 
 ```bash
-pip install tensorflow=1.13.2
+pip install tensorflow=1.15.1
 ```
